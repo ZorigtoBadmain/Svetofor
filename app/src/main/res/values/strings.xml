@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Svetofor</string>
+    <string name="red">Красный</string>
+    <string name="yellow">жёлтый</string>
+    <string name="green">зелёный</string>
+</resources>
